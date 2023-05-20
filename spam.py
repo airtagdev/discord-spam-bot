@@ -17,4 +17,4 @@ header = {
 for i in range (100000):
     time.sleep(Your delay here in seconds)
     r = requests.post('Your channel request url here', data=payload, headers=header)
-    print("Sent message successfully!")
+    print("Message sent!")
