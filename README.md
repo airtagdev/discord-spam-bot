@@ -1,3 +1,9 @@
+# SPAMM - Discord Spam Bot
+
+**SPAMM is a universaly compatible python script that delivers a powerful punch of spam to any discord server!**
+**SPAMM is a very easy to use script for visual studio code. Any device that can run python and visual studio code can run SPAMM.**
+**Great for anoying people you don't like, or just your friends.**
+
 # Instructions
 
 - Install visual studio code from https://code.visualstudio.com
