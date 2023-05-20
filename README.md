@@ -4,6 +4,8 @@
 **SPAMM is a very easy to use script for visual studio code. Any device that can run python and visual studio code can run SPAMM.**
 **Great for anoying people you don't like, or just your friends.**
 
+**This also works with https://replit.com/
+
 # Instructions
 
 - Install visual studio code from https://code.visualstudio.com
