@@ -66,4 +66,4 @@
 
 - Notice: if the replit is public, anyone can see your discord auth code! This means that people can sign into your account and hack it!
 
-[back to top](#spamm-a-discord-spam-bot)---[replit instructions](#instructions-for-replit)---[visual studio instructions](#instructions-for-visual-studio)
+[back to top](#spamm-a-discord-spam-bot)
