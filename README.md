@@ -1,4 +1,4 @@
-# SPAMM - Discord Spam Bot
+# SPAMM a Discord Spam Bot
 
 **SPAMM is a universaly compatible python script that delivers a powerful punch of spam to any discord server!**
 **SPAMM is a very easy to use script for visual studio code. Any device that can run python and visual studio code can run SPAMM.**
@@ -65,3 +65,5 @@
 - Make sure the text channel you selected is open, run the file, and enjoy spam.
 
 - Notice: if the replit is public, anyone can see your discord auth code! This means that people can sign into your account and hack it!
+
+[back to top](#spamm-a-discord-spam-bot)---[replit instructions](#instructions-for-replit)---[visual studio instructions](#instructions-for-visual-studio)
