@@ -8,7 +8,7 @@
 
 # Instructions for Replit
 
-- Go to the [Replit](https://replit.com/@AndersonLinn/SPAMM-Discord-Spam-Bot?v=1) and run the repl.
+- Go to the [Replit](https://replit.com/@AndersonLinn/SPAMM?v=1) and run the repl.
 
 - When prompted, enter your message, discord auth code, and discord channel url.
   - To find your auth code, open a browser window, and sign into discord.
