@@ -1,13 +1,28 @@
 # SPAMM a Discord Spam Bot
 
 **SPAMM is a universaly compatible python script that delivers a powerful punch of spam to any discord server!**
-**SPAMM is a very easy to use script for visual studio code. Any device that can run python and visual studio code can run SPAMM.**
+**SPAMM is a very easy to use on replit. Any device that can run a browser can run SPAMM.**
 **Great for anoying people you don't like, or just your friends.**
 
-**This also works with https://replit.com/. [Go to Replit Instructions](#instructions-for-replit).** (method is INSECURE but easier)
+[Visual Studio Instructions](#instructions-for-visual-studio). **(difficult, but local)**
+
+# Instructions for Replit
+
+- Go to https://replit.com/ and run the repl.
+
+- When prompted, enter your message, discord auth code, and discord channel url.
+  - To find your auth code, open a browser window, and sign into discord.
+  - Navigate to the server that you want to spam and send a message in the text channel that you want to spam in.
+  - Open dev tools (inspect element) and navigate to the **Network** tab.
+  - Find the value called **messages** and open it.
+  - Scroll down and find **authorization**.
+  - Copy your auth code (don't share it with anyone else!) and paste it in when prompted and press enter.
+  - Copy the **request url** and paste it in when propted and press enter.
+
+- The repl will run and spam the server of your choice :)
 
 # Instructions for Visual Studio
-(visual studio)
+
 - Install visual studio code from https://code.visualstudio.com
   - Install python from https://www.python.org/downloads/
 
@@ -38,32 +53,6 @@
 
 - Add a timed delay to **your delay here in seconds** (no less than 1).
 
-- Make sure the text channel you selected is open, run the file, and enjoy spam.
-
-# Instructions for Replit
-(replit insecure)
-- Go to https://replit.com/ and create a new python replit. You can name it whatever you want.
-
-- Copy the contents of the **spam.py** file in the repository.
-  - Paste the contents in the **main.py** file in replit.
-
-- Navigate to **shell** and run:
-
-        pip install requests
-
-- Add your discord authorization code to **your auth code here** and your request url to **your channel request url here**.
-  - To find your auth code, open a browser window, and sign into discord.
-  - Navigate to the server that you want to spam and send a message in the text channel that you want to spam in.
-  - Open dev tools (inspect element) and navigate to the **Network** tab.
-  - Find the value called **messages** and open it.
-  - Copy the **request url** and paste it in **your channel request url here**.
-  - Scroll down and find **authorization**.
-  - Copy your auth code (don't share it with anyone else!) and paste it in **your auth code here**.
-
-- Add a timed delay to **your delay here in seconds** (no less than 1).
-
-- Make sure the text channel you selected is open, run the file, and enjoy spam.
-
-- Notice: if the replit is public, anyone can see your discord auth code! This means that people can sign into your account and hack it!
+- Make sure the text channel you selected is open, run the file, and enjoy spam :)
 
 [back to top](#spamm-a-discord-spam-bot)
